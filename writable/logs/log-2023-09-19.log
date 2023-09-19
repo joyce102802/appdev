@@ -1,0 +1,35 @@
+CRITICAL - 2023-09-19 10:51:38 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 10:52:21 --> Too few arguments to function App\Controllers\ProductController::tryy(), 0 passed in C:\laragon\www\appdev\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\ProductController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 10:56:41 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 10:56:43 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 10:57:15 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
