@@ -12,14 +12,24 @@ class ProductController extends BaseController
     {
         $this->product = new \App\Models\ProductModel();
     }
+    public function save()
+    {
+        $data = [
+            'code' => $this->request->getVar('code'),
+            'name' => $this->request->getVar('name'),
+            'quantity' => $this->request->getVar('quantity'),
+        ];
+        $this->product->save($data);
+        return redirect()->to('/product');
+    }
     public function product($product)
     {
         echo $product;
     }
     public function tryy()
     {
-       $data = $this->product->findAll();
-       return view ('products');
+       $data['products'] = $this->product->findAll();
+       return view ('product', $data);
     }
     public function index()
     {
