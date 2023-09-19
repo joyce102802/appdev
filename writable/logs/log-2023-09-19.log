@@ -33,3 +33,176 @@ in APPPATH\Controllers\ProductController.php on line 21.
  3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
  5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:36 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:37 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:37 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:38 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:38 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:38 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:38 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:38 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 11:01:39 --> Call to a member function findAll() on null
+in APPPATH\Controllers\ProductController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:15:01 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:17:09 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:17:10 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:17:11 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:17:11 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:17:12 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:17:12 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:17:12 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:20:27 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:22:00 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')
+CRITICAL - 2023-09-19 13:22:01 --> Invalid file: "products.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('products.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('products', [], true)
+ 3 APPPATH\Controllers\ProductController.php(22): view('products')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->tryy()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\appdev\\public\\index.php')

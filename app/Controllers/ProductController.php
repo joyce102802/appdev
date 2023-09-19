@@ -8,7 +8,7 @@ use App\Controllers\BaseController;
 class ProductController extends BaseController
 {
     private $product;
-    public function _construct()
+    public function __construct()
     {
         $this->product = new \App\Models\ProductModel();
     }
@@ -19,7 +19,7 @@ class ProductController extends BaseController
     public function tryy()
     {
        $data = $this->product->findAll();
-       print_r($data);
+       return view ('products');
     }
     public function index()
     {
